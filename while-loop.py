@@ -15,7 +15,3 @@ while isGuessRight != True:
     else:
         print("You guessed {}. Sorry, that isn’t it. Try again.".format(guess))
         
-print("Count to 10!")
-
-for x in range (0, 11):
-    print(x)
